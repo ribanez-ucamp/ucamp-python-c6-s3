@@ -1,3 +1,4 @@
+print("Welcome")
 user_number = input("Por favor digite un número: ")
 user_number_int = int(user_number)
 user_number_divided_by_3 = user_number_int / 3
@@ -9,4 +10,5 @@ user_number_greater_than_2 = user_number_divided_by_3 > 2
 # print(user_number_int)
 
 print(user_number_greater_than_2)
+print("Bye - please, press any key to finish - Thanks")
 input()
